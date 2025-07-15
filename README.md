@@ -1,7 +1,7 @@
 # 🛒 Solidarity Shopping Cart (aka Trolley) / Caddie Solidaire
 *Roulez solidaire : un caddie intelligent qui partage l’énergie entre usagers.*
 
-![Schéma conceptuel du Caddie Solidaire](images/caddie-solidaire-schema.png)
+![Schéma conceptuel du Caddie Solidaire](./images/caddie-solidaire-schema.png)
 
 ---
 
@@ -58,8 +58,7 @@ Ce dispositif low-tech a une vocation avant tout humaine et symbolique :
 👉 Retrouvez la documentation complète dans le dossier [`/docs`](./docs/) :
 
 - [1️⃣ Concept mécanique](./docs/1-concept-mecanique.md)
-- [2️⃣ Schéma de principe](./docs/2-schema-principe.md)
-- [3️⃣ Calculs énergétiques](./docs/3-calculs-energetiques.md)
+- [2️⃣ Calculs énergétiques](./docs/3-calculs-energetiques.md)
 
 ---
 
