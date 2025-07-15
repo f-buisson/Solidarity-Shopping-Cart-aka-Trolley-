@@ -164,8 +164,7 @@ This low-tech device has a primarily human and symbolic purpose:
 👉 Full documentation available in the [`/docs`](./docs/) folder:
 
 - [1️⃣ Mechanical concept](./docs/1-concept-mecanique.md)
-- [2️⃣ Principle diagram](./docs/2-schema-principe.md)
-- [3️⃣ Energy calculations](./docs/3-calculs-energetiques.md)
+- [2️⃣ Calculs énergétiques](./docs/2-calculs-energetiques.md)
 
 ---
 
