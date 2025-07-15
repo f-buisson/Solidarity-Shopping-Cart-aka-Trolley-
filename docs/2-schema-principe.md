@@ -1,4 +1,4 @@
-# 2️⃣ Schéma de principe — Caddie Solidaire
+# 2️⃣ Schéma de principe — Solidarity Shopping Cart (aka Trolley) / Caddie Solidaire
 
 Voici une description textuelle du **schéma de principe** du système :
 
