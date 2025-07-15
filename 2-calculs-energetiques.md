@@ -1,4 +1,4 @@
-# 3️⃣ Calculs énergétiques — Solidarity Shopping Cart (aka Trolley) / Caddie Solidaire
+# 2️⃣ Calculs énergétiques — Solidarity Shopping Cart (aka Trolley) / Caddie Solidaire
 
 ## 📏 Hypothèses de base :
 - Poids caddie vide : 30 kg
