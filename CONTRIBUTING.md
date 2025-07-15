@@ -1,6 +1,6 @@
-# ✍️ Contribuer à Caddie Solidaire
+# ✍️ Contribuer à Solidarity Shopping Cart (aka Trolley) / Caddie Solidaire
 
-Merci de votre intérêt pour **Caddie Solidaire** ! Ce projet vise à explorer une innovation low-tech autour de l’entraide mécanique dans les chariots de supermarché.
+Merci de votre intérêt pour **Solidarity Shopping Cart (aka Trolley) / Caddie Solidaire** ! Ce projet vise à explorer une innovation low-tech autour de l’entraide mécanique dans les chariots de supermarché.
 
 ## 🔧 Comment contribuer
 
@@ -33,9 +33,9 @@ Besoin d’échanger avant de contribuer ?
 
 Merci ! 🚀
 
-# ✍️ Contributing to Caddie Solidaire
+# ✍️ Contributing to Solidarity Shopping Cart (aka Trolley)
 
-Thank you for your interest in **Caddie Solidaire**!  
+Thank you for your interest in **Solidarity Shopping Cart (aka Trolley)**!  
 This project aims to explore a low-tech innovation around mechanical mutual aid in supermarket carts.
 
 ## 🔧 How to contribute
